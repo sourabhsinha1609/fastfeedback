@@ -38,8 +38,15 @@ export default function Home() {
             </a>
           </div>
         </div>
+        <div className='title'>
+          <h1>Fast Feedback</h1>
+          
+        </div>
 
-        <div className={styles.center}>
+
+
+
+        {/* <div className={styles.center}>
           <Image
             className={styles.logo}
             src="/next.svg"
@@ -57,7 +64,7 @@ export default function Home() {
               priority
             />
           </div>
-        </div>
+        </div> */}
 
         <div className={styles.grid}>
           <a
